@@ -2,7 +2,7 @@
 
 <table "width="100%" style="background: linear-gradient(135deg, #2d0b4e, #b57edc); border-radius: 12px;">
 <tr>
-<td width="50%" valign="top" style="padding: 30px;">
+<td width="50%" valign="top">
 
 # Hi, I'm RUCHI SHARMA 👋
 ### Frontend Developer
@@ -16,7 +16,7 @@ I don't watch anime, I code anime 💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruchisharma4995)
 
 </td>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top">
 <img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" height="200" style="object-fit:cover; border-radius:10px;" alt="profile"/>
 </td>
 </tr>
@@ -43,16 +43,9 @@ HTML CSS JavaScript React Git GitHub Netlify VsCode
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="70%"/>
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ruchi-sharma-472a6b330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ruchigour105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
