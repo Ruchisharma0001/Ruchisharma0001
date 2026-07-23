@@ -1,19 +1,3 @@
-<!-- <table background-color="blue">
-<tr>
-<td width="55%" valign="middle">
-
-# Hi, I'm RUCHI SHARMA 👋
-
-### Frontend Developer
-
-I don't watch anime, I code anime 💻
-
-</td>
-<td width="45%">
-<img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" alt="profile"/>
-</td>
-</tr>
-</table> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
 
 <table>
@@ -55,10 +39,10 @@ I don't watch anime, I code anime 💻
 
 ### 🎨 My Projects
 
-| Project | Tech | ⭐ |
-|---|---|---|
-| [Project Name 1](https://github.com/you/repo1) | HTML, CSS, JS | 25 |
-| [Project Name 2](https://github.com/you/repo2) | HTML, CSS, JS | 9 |
+| Project | Tech |
+|---|---|
+| [Project Name 1](https://github.com/you/repo1) | HTML, CSS, JS |
+| [Project Name 2](https://github.com/you/repo2) | HTML, CSS, JS | 
 
 ---
 
