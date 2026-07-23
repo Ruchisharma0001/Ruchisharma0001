@@ -43,13 +43,6 @@ HTML CSS JavaScript React Git GitHub Netlify VsCode
 
 ---
 
-### 📊 GitHub Stats & Graphs
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchisharma0001&theme=react-dark&hide_border=true" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ruchisharma0001&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="70%"/>
