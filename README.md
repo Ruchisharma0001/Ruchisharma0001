@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/> -->
 
-<table>
+<table "width="100%" style="background: linear-gradient(135deg, #2d0b4e, #b57edc); border-radius: 12px;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 30px;">
 
 # Hi, I'm RUCHI SHARMA 👋
 ### Frontend Developer
@@ -16,8 +16,8 @@ I don't watch anime, I code anime 💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruchisharma4995)
 
 </td>
-<td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" height="350" style="object-fit:cover;" alt="profile"/>
+<td width="50%" valign="top" style="padding: 20px;">
+<img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" height="200" style="object-fit:cover; border-radius:10px;" alt="profile"/>
 </td>
 </tr>
 </table>
