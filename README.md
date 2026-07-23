@@ -1,6 +1,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/> -->
 
-<table "width="100%" style="background: linear-gradient(135deg, #2d0b4e, #b57edc)";>
+<table "width="100%">
 <tr>
 <td width="50%" valign="top">
 
