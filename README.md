@@ -2,7 +2,7 @@
 <tr>
 <td width="55%" valign="middle">
 
-# Hi, I'm [YOUR NAME] 👋
+# Hi, I'm [RUCHI SHARMA] 👋
 
 ### Frontend Developer
 
@@ -36,7 +36,6 @@ I don't watch anime, I code anime 💻
 |---|---|---|
 | [Project Name 1](https://github.com/you/repo1) | HTML, CSS, JS | 25 |
 | [Project Name 2](https://github.com/you/repo2) | HTML, CSS, JS | 9 |
-| [Project Name 3](https://github.com/you/repo3) | TypeScript, Three.js | 2 |
 
 ---
 
@@ -44,7 +43,7 @@ I don't watch anime, I code anime 💻
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ruchisharma0001&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
