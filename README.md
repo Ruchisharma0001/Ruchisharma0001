@@ -17,7 +17,7 @@ I don't watch anime, I code anime 💻
 
 </td>
 <td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" height="200" style="object-fit:cover; border-radius:10px;" alt="profile"/>
+<img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" height="300" style="object-fit:cover; border-radius:10px;" alt="profile"/>
 </td>
 </tr>
 </table>
