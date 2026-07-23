@@ -1,8 +1,8 @@
-<table>
+<table background-color="blue">
 <tr>
 <td width="55%" valign="middle">
 
-# Hi, I'm [RUCHI SHARMA] 👋
+# Hi, I'm RUCHI SHARMA 👋
 
 ### Frontend Developer
 
