@@ -1,4 +1,4 @@
-<table background-color="blue">
+<!-- <table background-color="blue">
 <tr>
 <td width="55%" valign="middle">
 
@@ -11,6 +11,29 @@ I don't watch anime, I code anime 💻
 </td>
 <td width="45%">
 <img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" alt="profile"/>
+</td>
+</tr>
+</table> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+# Hi, I'm RUCHI SHARMA 👋
+### Frontend Developer
+
+I don't watch anime, I code anime 💻
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ruchi-sharma-472a6b330)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchigour105@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruchisharma4995)
+
+</td>
+<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" height="350" style="object-fit:cover;" alt="profile"/>
 </td>
 </tr>
 </table>
