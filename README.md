@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1047" height="1502" alt="Profileimg" src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" />
-" width="100%" alt="banner"/>
+ <img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
