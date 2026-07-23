@@ -1,15 +1,6 @@
-<!--
-HOW TO USE THIS FILE
-1. Create a new GitHub repo named EXACTLY your username (e.g. if your username is "jane-doe", repo = "jane-doe/jane-doe")
-2. Make it PUBLIC
-3. Add this file as README.md in that repo
-4. Replace every [PLACEHOLDER] below with your info
-5. It will auto-render on your profile page (github.com/yourusername)
--->
-
-<!-- BANNER: use any wide image (1500x400ish). Upload it to the repo's /assets folder or use imgur/postimg link -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="banner"/>
+  <img src="<img width="1047" height="1502" alt="Profileimg" src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" />
+" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
