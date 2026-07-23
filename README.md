@@ -1,7 +1,6 @@
-
- <table>
+<table>
 <tr>
-<td width="50%" valign="middle">
+<td width="55%" valign="middle">
 
 # Hi, I'm [YOUR NAME] 👋
 
@@ -10,14 +9,11 @@
 I don't watch anime, I code anime 💻
 
 </td>
-<td width="50%">
+<td width="45%">
 <img src="https://github.com/user-attachments/assets/e4f8a6ac-7dc6-47d8-a3fa-57ce6f6ddbb3" width="100%" alt="profile"/>
 </td>
 </tr>
 </table>
-
-
-<h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
 
 <!-- Typing animation - free service, just edit the text in the URL -->
 <p align="center">
