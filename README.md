@@ -1,13 +1,11 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/> -->
 
-<table "width="100%" style="background: linear-gradient(135deg, #2d0b4e, #b57edc); border-radius: 12px;">
+<table "width="100%" style="background: linear-gradient(135deg, #2d0b4e, #b57edc)";>
 <tr>
 <td width="50%" valign="top">
 
 # Hi, I'm RUCHI SHARMA 👋
 ### Frontend Developer
-
-I don't watch anime, I code anime 💻
 
 <br>
 
