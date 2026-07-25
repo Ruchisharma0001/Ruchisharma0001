@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="1600" height="700" alt="profile_card (1)" src="https://github.com/user-attachments/assets/591012f5-adc7-4995-b48a-e5411daa00c4" />
+   <img width="1500" height="400" alt="profile_card (1)" src="https://github.com/user-attachments/assets/591012f5-adc7-4995-b48a-e5411daa00c4" />
 </p>
 
 <!-- Typing animation - free service, just edit the text in the URL -->
