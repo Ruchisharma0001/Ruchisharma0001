@@ -1,7 +1,7 @@
 <table align="center" width="100%" bgcolor="#2d0b4e">
 <tr>
 <td width="50%" valign="top">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Frontend+Developer;I+am+a+frntend+developer%2C+I+code+anime;Building+clean%2C+responsive+experiences" alt="Typing SVG" />
 # Hi, I'm RUCHI SHARMA 👋
 ### Frontend Developer
 
